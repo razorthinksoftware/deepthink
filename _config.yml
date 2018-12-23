@@ -1,1 +1,39 @@
-theme: jekyll-theme-cayman
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            DeepThink
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              https://github.com/razorthinksoftware/deepthink-magazine
+baseurl:          /
+
+author:
+  name:           'Prathyush SP'
+  url:            https://github.com/kingspp
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  url:            https://github.com/razorthinksoftware/deepthink-magazine
+
+
+plugins:
+  - jekyll-paginate
+  - redcarpet
+  - pygments.rb
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
