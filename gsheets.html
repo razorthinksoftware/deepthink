@@ -1,0 +1,20 @@
+---
+layout: default
+title: Google Sheets to Github Website - Links
+---
+
+<!-- Pulls from _data links -->
+{% assign links = site.data.Sheet1 %}
+{% assign links = links | sort:"Name" %}
+
+<h3>Links</h3>
+<table width="100%">
+{% for link in links %}
+  <tr>
+    <td><strong>{{ link.Title }}</strong></td>
+    <td width="25%">{{ link.Content }}</td>
+  </tr>
+{% endfor %}
+</table>
+<p align="center">
+</p>

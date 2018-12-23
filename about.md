@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Razorthink's inhouse RSS Feed! What's the happening trend in the domain of Artificial Intelligence?
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
@@ -20,11 +20,15 @@ Learn more and contribute on [GitHub](https://github.com/poole).
 
 Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
+* Built using [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Free DB host - [Google Spread Sheet](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)
+* Appreciate [TravisCI](https://travis-ci.org/)'s help for auto-sync! 
+* Base template by [Hyde](https://github.com/poole/hyde) and [Poole](https://github.com/poole/poole).
+* Quotes curated by [Forismatic](http://forismatic.com)!
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/razorthinksoftware/deepthink-magazine/issues).
 
 Thanks for reading!

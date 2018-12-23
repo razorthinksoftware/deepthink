@@ -8,8 +8,9 @@ relative_permalinks: false
 
 # Setup
 title:            DeepThink
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          "Razorthink's inhouse RSS Feed!"
+description:      "Razorthink's inhouse RSS Feed! What's the happening trend in the domain of Artificial Intelligence?"
+
 url:              https://github.com/razorthinksoftware/deepthink-magazine
 baseurl:          /
 
@@ -20,7 +21,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
   url:            https://github.com/razorthinksoftware/deepthink-magazine
