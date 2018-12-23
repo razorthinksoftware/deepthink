@@ -6,10 +6,10 @@ before_script:
 script:
   - node get_data.js
   
-language: ruby
-rvm:
-- 2.1
-script: "bundle exec jekyll build"
+# language: ruby
+# rvm:
+# - 2.1
+# script: "bundle exec jekyll build"
 
 deploy:
   provider: pages
