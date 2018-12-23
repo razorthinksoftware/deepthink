@@ -5,6 +5,7 @@ gem 'jekyll'
 gem 'kramdown'
 gem 'jekyll-watch'
 gem 'rouge'
+gem 'github-pages'
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "redcarpet"
