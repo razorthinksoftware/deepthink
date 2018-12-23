@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "8.9.1"
+before_script:
+  - npm install -D google-spreadsheet async babel-cli babel-preset-es2015 babel-preset-stage-0
+script:
+  - node get_data.js
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master

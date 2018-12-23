@@ -1,0 +1,40 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            DeepThink
+tagline:          "Razorthink's inhouse RSS Feed!"
+description:      "Razorthink's inhouse RSS Feed! What's the happening trend in the domain of Artificial Intelligence?"
+
+url:              https://github.com/razorthinksoftware/deepthink-magazine
+baseurl:          /
+
+author:
+  name:           'Prathyush SP'
+  url:            https://github.com/kingspp
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  url:            https://github.com/razorthinksoftware/deepthink-magazine
+
+
+plugins:
+  - jekyll-paginate
+  - redcarpet
+  - pygments.rb
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]

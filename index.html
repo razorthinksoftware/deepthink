@@ -1,0 +1,146 @@
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+    {% for post in site.data.posts %}
+    <div class="post">
+        <h1 class="post-title">
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </h1>
+
+        <span class="post-date">{{ post.date | date_to_string }}, {{post.author}}</span>
+        <span><b>{{post.type}}</b>&nbsp&nbsp
+      {% assign tags = post.tags | split:"," %}
+      {% for tag in tags %}
+      #{{tag}}
+      {% endfor %}
+    </span><br/>
+        <a class="preview" href="{{post.url}}"></a><br/>
+        {{ post.content }}
+    </div>
+    {% endfor %}
+</div>
+
+<div class="pagination">
+    {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+    {% else %}
+    <span class="pagination-item older">Older</span>
+    {% endif %}
+    {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+    <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+    <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+    {% else %}
+    <span class="pagination-item newer">Newer</span>
+    {% endif %}
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/microlinkjs@latest/umd/microlink.min.js"></script>
+<style>
+    body {
+        padding: 25px;
+    }
+
+    #show_lnk img {
+        width: 30px;
+        height: 30px;
+    }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function (event) {
+        microlink('.preview')
+    });
+
+    // $(document).ready(function () {
+    //     $.getJSON("https://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=jsonp&lang=en&jsonp=?", function (data) {
+    //         quoteText = data.quoteText;
+    //
+    //         if (data.quoteAuthor) {
+    //             quoteAuthor = data.quoteAuthor;
+    //         } else {
+    //             quoteAuthor = "Anonymous"
+    //         }
+    //
+    //         $('#quote').animate({
+    //             opacity: 0
+    //         }, 500, function () {
+    //             $('#quote').html(quoteText);
+    //             $(this).animate({
+    //                 opacity: 1
+    //             }, 500);
+    //         });
+    //
+    //         $('.author').animate({
+    //             opacity: 0
+    //         }, 500, function () {
+    //             $('.author').html(" - " + quoteAuthor);
+    //             $(this).animate({
+    //                 opacity: 1
+    //             }, 500);
+    //         });
+    //     });
+    // });
+
+</script>
+
+
+<!--<script>-->
+
+<!--$(window).bind("load", function () {-->
+<!--// code goes here-->
+
+<!--$(".preview").each(function() {-->
+<!--// console.log( ($(this).html()));-->
+<!--// .replace(/\<span(.|\s)*?\<\/span\>/,'');-->
+
+<!--$.ajax({-->
+<!--url: "https://api.linkpreview.net",-->
+<!--dataType: 'jsonp',-->
+<!--context : $(this),-->
+<!--data: {q: $(this).html(), key: '5c1f7f1c3fad1135a4ccb1b2f60f600ab97fa03b5e8cf'},-->
+<!--success: function (response) {-->
+<!--console.log('success');-->
+<!--$(this).replaceWith('<div class="preview"><img src="' + response.image + '"><b>' + response.title + '</b><h4>' + response.description + '</h4><a href="' + response.url + '">' + response.url + '</a></div>');-->
+<!--}-->
+
+<!--});-->
+<!--});-->
+<!--//     $(".preview").map(function () {-->
+<!--//-->
+<!--//         $.ajax({-->
+<!--//     url: "https://api.linkpreview.net",-->
+<!--//     dataType: 'jsonp',-->
+<!--//     data: {q: this.innerHTML.data, key: '5c1f7f1c3fad1135a4ccb1b2f60f600ab97fa03b5e8cf'},-->
+<!--//     success: function (response) {-->
+<!--//       this.innerHTML = ('<img src="'+response.image+'"><h3>'+response.title+'</h3><h4>'+response.description+'</h4><a href="'+response.url+'">'+response.url+'</a>');-->
+<!--//     }-->
+<!--//-->
+<!--//     })}).get();-->
+<!--//-->
+<!--});-->
+
+
+<!--// $(document).ready(function() {-->
+<!--//     var target = 'https://github.com/tensorflow/privacy';-->
+
+
+<!--//   $.ajax({-->
+<!--//     url: "https://api.linkpreview.net",-->
+<!--//     dataType: 'jsonp',-->
+<!--//     data: {q: target, key: '5c1f7f1c3fad1135a4ccb1b2f60f600ab97fa03b5e8cf'},-->
+<!--//     success: function (response) {-->
+<!--//       $("#show_lnk").html('<img src="'+response.image+'"><h3>'+response.title+'</h3><h4>'+response.description+'</h4><a href="'+response.url+'">'+response.url+'</a>');-->
+<!--//     }-->
+<!--//   // });-->
+<!--// });-->
+<!--// });-->
+
+<!--</script>-->
