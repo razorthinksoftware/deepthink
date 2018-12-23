@@ -18,15 +18,6 @@ I share this because I continue to be amazed.
   tags: 
   
 
-- date: 16/12/18
-  author: Prathyush SP
-  url: https://arxiv.org/abs/1812.03973
-  type: Paper
-  title: Bayesian Layers: A Module for Neural Network Uncertainty
-  content: "As demonstration, we fit a 10-billion parameter ‘Bayesian Transformer’ on 512 TPUv2 cores, which replaces attention layers with their Bayesian counterpart. 🔥"
-  tags: 
-  
-
 - date: 20/12/18
   author: Prathyush SP
   url: https://arxiv.org/abs/1812.08775
@@ -42,6 +33,15 @@ I share this because I continue to be amazed.
   type: Tool
   title: Nevergrad! An open source tool for derivative-free optimization
   content: "We have created and are now open-sourcing Nevergrad, a Python3 library that makes it easier to perform gradient-free optimizations used in many machine learning tasks"
+  tags: 
+  
+
+- date: 16/12/18
+  author: Prathyush SP
+  url: https://arxiv.org/abs/1812.03973
+  type: Paper
+  title: Bayesian Layers: A Module for Neural Network Uncertainty
+  content: "As demonstration, we fit a 10-billion parameter ‘Bayesian Transformer’ on 512 TPUv2 cores, which replaces attention layers with their Bayesian counterpart. 🔥"
   tags: 
   
 
