@@ -1,14 +1,14 @@
-import GoogleSpreadsheet from "google-spreadsheet"
-import async from "async"
-import fs from "fs"
+var GoogleSpreadsheet = require("google-spreadsheet");
+var async = require("async");
+var fs = require("fs");
 
 
 
 const doc = new GoogleSpreadsheet(
 // Using our example spreadsheet: https://docs.google.com/spreadsheets/d/1o_NWrDsVNSVU1jViexKQi08aI6h76fXrMIcvbT9faoM/edit#gid=0
   "1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA"
-)
-let sheet
+);
+let sheet;
 
 
 async.series([
