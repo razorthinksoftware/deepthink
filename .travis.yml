@@ -5,11 +5,12 @@ before_script:
   - npm install -D google-spreadsheet async babel-cli babel-preset-es2015 babel-preset-stage-0
 script:
   - node get_data.js
+  - rm -rf node_modules/*
   
-language: ruby
-rvm:
-- 2.1
-script: "bundle exec jekyll build"
+# language: ruby
+# rvm:
+# - 2.1
+# script: "bundle exec jekyll build"
 
 deploy:
   provider: pages
