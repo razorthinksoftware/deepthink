@@ -6,6 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 relative_permalinks: false
 
+disqus_shortname: https-razorthinksoftware-github-io
+
 # Setup
 title:            DeepThink
 tagline:          "Razorthink's inhouse RSS Feed!"
