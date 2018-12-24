@@ -45,25 +45,25 @@ function getInfoAndWorksheets(step) {
         fs.appendFile(
           "./_data/posts.yml",
           "- date: " +
-          row.date +
+          '"'+row.date +'"'+
           "\n\x20\x20" +
           "author: " +
-          row.author +
+          '"'+row.author +'"'+
           "\n\x20\x20" +
             "url: " +
-          row.url +
+          '"'+row.url +'"'+
           "\n\x20\x20" +
             "type: " +
-          row.type +
+          '"'+row.type +'"'+
           "\n\x20\x20" +
           "title: " +
-          row.title +
+          '"'+row.title +'"'+
           "\n\x20\x20" +
           "content: " +
           '"'+row.content +'"'+
             "\n\x20\x20" +
             "tags: " +
-            row.tags +
+            '"'+row.tags +'"'+
           "\n\x20\x20" +
           "\n\n",
           err => {

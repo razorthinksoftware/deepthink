@@ -8,7 +8,10 @@
     "getdata": "babel-node get_data.js"
   },
   "dependencies": {
-
+    "async": "^2.6.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "google-spreadsheet": "^2.0.6"
   },
   "engines": {
     "node": "4.0.0"
@@ -26,5 +29,8 @@
   "contributors": [
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.24.1"
+  }
 }
