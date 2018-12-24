@@ -11,7 +11,7 @@ The idea is to create a bucket of recent trends and patterns. It's made by [Prat
 
 Some of the objectives,
 
-* Simple yet intutive UI
+* Simple yet intuitive UI
 * Posting should be obvious and easy [Google Sheet](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)!
 
 Learn more and contribute on [GitHub](https://github.com/poole).
@@ -27,6 +27,7 @@ Some fun facts about the setup of this project include:
 * Base template by [Hyde](https://github.com/poole/hyde) and [Poole](https://github.com/poole/poole).
 * Quotes curated by [Forismatic](http://forismatic.com)!
 * Support for Open Graph Protocol using [iFramely](https://iframely.com/).
+* [Disqus](https://disqus.com/) for comments.
 
 
 
