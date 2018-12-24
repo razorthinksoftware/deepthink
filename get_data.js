@@ -38,7 +38,7 @@ async.series([
                 console.log("Read " + rows.length + " rows");
                 // Clean posts.yml
                 fs.truncate("./_data/posts.yml", 0, () => {
-                })
+                });
                 // Save rows as items in the YAML file
                 for (let row of rows) {
                     fs.appendFile(

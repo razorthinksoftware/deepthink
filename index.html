@@ -14,12 +14,16 @@ title: Home
 
         <span class="post-date">{{ post.date | date_to_string }}, {{post.author}}</span>
         <span><b>{{post.type}}</b>&nbsp&nbsp
-      <!--{% assign tags = post.tags | split:"," %}-->
-      <!--{% for tag in tags %}-->
-      <!--#{{tag}}-->
-      <!--{% endfor %}-->
+            <!--{% assign tags = post.tags | split:"," %}-->
+            <!--{% for tag in tags %}-->
+            <!--#{{tag}}-->
+            <!--{% endfor %}-->
     </span><br/>
-        <a class="preview" href="{{post.link}}"></a><br/>
+        <div class="iframely-embed">
+            <div class="iframely-responsive">
+                <a data-iframely-url href="{{post.link}}"></a>
+            </div>
+        </div>
         {{ post.content }}
     </div>
     {% endfor %}
@@ -42,20 +46,6 @@ title: Home
     {% endif %}
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/microlinkjs@latest/umd/microlink.min.js"></script>
-<style>
-    body {
-        padding: 25px;
-    }
 
-    #show_lnk img {
-        width: 30px;
-        height: 30px;
-    }
-</style>
-
-<script>
-    document.addEventListener("DOMContentLoaded", function (event) {
-        microlink('.preview');
-    });
-</script>
+<script async charset="utf-8"
+        src="//cdn.iframe.ly/embed.js?api_key=efc67b8a1482efebad6dd3&iframe=card-small&media=0"></script>
