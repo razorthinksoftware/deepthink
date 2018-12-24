@@ -1,3 +1,12 @@
+- date: "21/12/2018"
+  author: "Prathyush SP"
+  url: "https://github.com/tensorflow/privacy"
+  type: "Tool"
+  title: "Tensorflow Privacy"
+  content: "GoogleAI has just released a new library for training machine learning models with (differential) privacy for training data! Very excited to share it with the research community and we look forward to your contributions! Check it out "
+  tags: "tensorflow"
+  
+
 - date: "20/12/2018"
   author: "Prathyush SP"
   url: "https://twitter.com/radekosmulski/status/1076024164694310913"
@@ -7,15 +16,6 @@
 I share this because I continue to be amazed.
 "
   tags: ""
-  
-
-- date: "21/12/2018"
-  author: "Prathyush SP"
-  url: "https://github.com/tensorflow/privacy"
-  type: "Tool"
-  title: "Tensorflow Privacy"
-  content: "GoogleAI has just released a new library for training machine learning models with (differential) privacy for training data! Very excited to share it with the research community and we look forward to your contributions! Check it out "
-  tags: "tensorflow"
   
 
 - date: "20/12/2018"
@@ -45,7 +45,7 @@ I share this because I continue to be amazed.
   tags: ""
   
 
-- date: "43293"
+- date: "07/12/2018"
   author: "Prathyush SP"
   url: "https://t.co/nodmNBjhja"
   type: "Tool"
