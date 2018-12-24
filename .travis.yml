@@ -4,8 +4,10 @@ node_js:
 before_script:
   - npm install -D google-spreadsheet async babel-cli babel-preset-es2015 babel-preset-stage-0
 script:
+  - rm -rf _posts/*
   - node get_data.js
   - rm -rf node_modules/*
+
   
 # language: ruby
 # rvm:
