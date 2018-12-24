@@ -45,3 +45,12 @@ I share this because I continue to be amazed.
   tags: ""
   
 
+- date: "7/12/18"
+  author: "Prathyush SP"
+  url: "https://t.co/nodmNBjhja"
+  type: "Tool"
+  title: "Google Jax"
+  content: "JAX is NumPy on the CPU and GPU with autodiff and JIT compilation. It's just been released, try it out!"
+  tags: ""
+  
+
