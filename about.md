@@ -27,6 +27,7 @@ Some fun facts about the setup of this project include:
 * Base template by [Hyde](https://github.com/poole/hyde) and [Poole](https://github.com/poole/poole).
 * Quotes curated by [Forismatic](http://forismatic.com)!
 * Support for Open Graph Protocol using [iFramely](https://iframely.com/).
+* [Disqus](https://disqus.com/) for comments.
 
 
 
