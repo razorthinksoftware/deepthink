@@ -22,10 +22,11 @@ Some fun facts about the setup of this project include:
 
 * Built using [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Free DB host - [Google Sheet](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)
+* Free DB host - [Google Sheets](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)
 * Appreciate [TravisCI](https://travis-ci.org/)'s help for auto-sync! 
 * Base template by [Hyde](https://github.com/poole/hyde) and [Poole](https://github.com/poole/poole).
 * Quotes curated by [Forismatic](http://forismatic.com)!
+* Support for Open Graph Protocol using [iFramely](https://iframely.com/).
 
 
 
