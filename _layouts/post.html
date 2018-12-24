@@ -7,9 +7,11 @@ layout: default
     <span class="post-date">{{ page.date | date_to_string }}, {{page.author}}</span>
     {{ content }}
     <p>For more details, <a href="{{page.link}}">visit</a></p>
-    <!--<div class="resp-container">-->
-    <!--&lt;!&ndash;<iframe class="resp-iframe" src="{{page.link}}" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>&ndash;&gt;-->
-<!--</div>-->
+    <div class="iframely-embed">
+            <div class="iframely-responsive">
+                <a data-iframely-url href="{{page.link}}"></a>
+            </div>
+        </div>
 </div>
 
 
@@ -17,22 +19,4 @@ layout: default
 {% include disqus.html %}
 {% endif %}
 
-
-<style>
-    .resp-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 27%;
-}
-
-    .resp-iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
-
-
-</style>
+<script async charset="utf-8" src="//cdn.iframe.ly/embed.js?api_key=efc67b8a1482efebad6dd3"></script>
