@@ -18,13 +18,13 @@ title: Home
             <!--{% for tag in tags %}-->
             <!--#{{tag}}-->
             <!--{% endfor %}-->
-    </span><br/>
-        <div class="iframely-embed">
+    </span>
+        <div class="iframely-embed" style="padding-top: 10px">
             <div class="iframely-responsive">
                 <a data-iframely-url href="{{post.link}}"></a>
             </div>
         </div>
-        {{ post.content }}
+        <div style="padding-top: 10px">{{ post.content }}</div>
     </div>
     {% endfor %}
 </div>
