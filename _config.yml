@@ -20,10 +20,10 @@ author:
   name:           'Prathyush SP'
   url:            https://github.com/kingspp
 
-paginate:         5
+paginate:         10
 
 # Custom vars
-version:          1.0.0
+version:          1.2.3
 
 github:
   url:            https://github.com/razorthinksoftware/deepthink-magazine
