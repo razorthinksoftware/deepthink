@@ -49,3 +49,47 @@ title: Home
 
 <script async charset="utf-8"
         src="//cdn.iframe.ly/embed.js?api_key=efc67b8a1482efebad6dd3&iframe=card-small&media=0"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function (event) {
+        $.getJSON("https://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=jsonp&lang=en&jsonp=?", function (data) {
+            quoteText = data.quoteText;
+
+            if (data.quoteAuthor) {
+                quoteAuthor = data.quoteAuthor;
+            } else {
+                quoteAuthor = "Anonymous"
+            }
+
+            $('#quote').animate({
+                opacity: 0
+            }, 500, function () {
+                $('#quote').html(quoteText);
+                $(this).animate({
+                    opacity: 1
+                }, 500);
+            });
+
+            $('.author').animate({
+                opacity: 0
+            }, 500, function () {
+                $('.author').html(" - " + quoteAuthor);
+                $(this).animate({
+                    opacity: 1
+                }, 500);
+            });
+
+            // $('.sidebar-about h1 a').animate({
+            //     opacity: 0
+            // }, 500, function () {
+            //     $('.sidebar-about h1 a').html("{{ site.title }}");
+            //     $(this).animate({
+            //         opacity: 1
+            //     }, 500);
+            // });
+
+
+        });
+    });
+
+</script>
