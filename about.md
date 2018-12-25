@@ -7,12 +7,13 @@ title: About
   Razorthink's inhouse RSS Feed! What's the happening trend in the domain of Artificial Intelligence?
 </p>
 
-The idea is to create a bucket of recent trends and patterns. It's made by [Prathyush SP](https://twitter.com/mdo).
+The idea is to create a bucket of recent trends and patterns. It's made by [Prathyush SP](https://github.com/kingspp).
 
-Some of the objectives,
+Objectives,
 
 * Simple yet intuitive UI
-* Posting should be obvious and easy [Google Sheet](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)!
+* Posting should be obvious and easy [Google Sheets](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)!
+* Zero-cost solution
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
