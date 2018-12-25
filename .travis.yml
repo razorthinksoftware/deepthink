@@ -11,8 +11,8 @@ script:
   - rm -rf vendor/*
   - git add _posts/*
   
-language: ruby
-cache: bundler
+# language: ruby
+# cache: bundler
 
   
 # language: ruby
