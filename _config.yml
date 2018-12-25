@@ -14,7 +14,7 @@ tagline:          "Razorthink's inhouse RSS Feed!"
 description:      "Razorthink's inhouse RSS Feed! What's the happening trend in the domain of Artificial Intelligence?"
 
 url:              https://github.com/razorthinksoftware/deepthink-magazine/
-baseurl:          /deepthink-magazine/
+baseurl:          /deepthink/
 
 author:
   name:           'Prathyush SP'
