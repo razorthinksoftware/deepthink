@@ -15,7 +15,7 @@ Objectives,
 * Posting should be obvious and easy [Google Sheets](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)!
 * Zero-cost solution
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Learn more and contribute on [GitHub](https://github.com/razorthinksoftware/deepthink).
 
 ## Setup
 
@@ -32,6 +32,6 @@ Some fun facts about the setup of this project include:
 
 
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/razorthinksoftware/deepthink-magazine/issues).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/razorthinksoftware/deepthink/issues).
 
 Thanks for reading!
