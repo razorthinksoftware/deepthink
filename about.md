@@ -13,7 +13,7 @@ Objectives,
 
 * Simple yet intuitive UI
 * Posting should be obvious and easy [Google Sheets](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)!
-* Zero-cost solution
+* Frugal innovation to derive zero-cost solution
 
 Learn more and contribute on [GitHub](https://github.com/razorthinksoftware/deepthink).
 
