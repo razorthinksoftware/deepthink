@@ -1,12 +1,9 @@
-var GoogleSpreadsheet = require("google-spreadsheet");
-var async = require("async");
-var fs = require("fs");
+const GoogleSpreadsheet = require("google-spreadsheet");
+const  async = require("async");
+const  fs = require("fs");
 
 
-const doc = new GoogleSpreadsheet(
-// Using our example spreadsheet: https://docs.google.com/spreadsheets/d/1o_NWrDsVNSVU1jViexKQi08aI6h76fXrMIcvbT9faoM/edit#gid=0
-    "1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA"
-);
+const doc = new GoogleSpreadsheet("1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA");
 let sheet;
 
 
@@ -19,7 +16,7 @@ async.series([
         doc.getInfo((err, info) => {
             console.log(
                 "Loaded spreadsheet: " + info.title + " by " + info.author.email
-            )
+            );
 
             // Using the first sheet
             sheet = info.worksheets[0];
@@ -42,7 +39,7 @@ async.series([
                 // Save rows as items in the YAML file
                 for (let row of rows) {
                     fs.appendFile(
-                        "./_posts/" + row.date + '-' + parseInt(Math.random() * 100000).toString() + '.md',
+                        "./_posts/" + row.date + '-' + row.title.replace(/[^a-zA-Z ]/g, "").replace(/ {1,}/g,"-").toLowerCase() + '.md',
                         "---\nlayout: post\ndate: " +
                         '"' + row.date + '"' +
                         "\n" +
