@@ -25,14 +25,14 @@ async.series([
             sheet = info.worksheets[0];
             console.log(
                 "sheet 1: " + sheet.title + " " + sheet.rowCount + "x" + sheet.colCount
-            )
+            );
             step()
         })
     }, function getStuff(step) {
         sheet.getRows(
             {
                 offset: 1,
-                limit: 20,
+                limit: 1000,
                 orderby: "col1"
             }, function (err, rows) {
                 console.log("Read " + rows.length + " rows");
