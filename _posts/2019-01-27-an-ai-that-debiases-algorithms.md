@@ -4,7 +4,7 @@ date: "2019-01-27"
 author: "Prathyush SP"
 link: "https://www.csail.mit.edu/news/ai-de-biases-algorithms"
 type: "Resource"
-title: "An AI that "de-biases" algorithms"
+title: "An AI that 'de-biases' algorithms"
 tags: ""
 comments: true
 ---
