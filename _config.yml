@@ -13,7 +13,7 @@ title:            DeepThink
 tagline:          "Razorthink's inhouse RSS Feed!"
 description:      "Razorthink's inhouse RSS Feed! What's the happening trend in the domain of Artificial Intelligence?"
 
-url:              https://github.com/razorthinksoftware/deepthink-magazine/
+url:              https://github.com/razorthinksoftware/deepthink
 baseurl:          /deepthink/
 
 author:
@@ -23,11 +23,17 @@ author:
 paginate:         10
 
 # Custom vars
-version:          1.2.3
+version:          1.2.5
 
 github:
-  url:            https://github.com/razorthinksoftware/deepthink-magazine
+  url:            https://github.com/razorthinksoftware/deepthink
 
+# Search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [index.md, search.html]
 
 plugins:
   - jekyll-paginate
