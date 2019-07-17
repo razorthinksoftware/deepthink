@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "getdata": "babel-node get_data.js"
+    "getdata": "rm -rf _posts/* && babel-node get_data.js"
   },
   "dependencies": {
     "async": "^2.6.1",

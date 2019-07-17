@@ -53,7 +53,7 @@ async.series([
                         '"' + row.type + '"' +
                         "\n" +
                         "title: " +
-                        '"' + row.title + '"' +
+                        '"' + row.title.replace(/"/g,"'") + '"' +
                         "\n" +
                         "tags: " +
                         '"' + row.tags + '"' +
