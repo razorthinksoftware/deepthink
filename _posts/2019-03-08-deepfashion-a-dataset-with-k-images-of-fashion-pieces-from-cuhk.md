@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-08"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1901.07973"
-type: "Dataset and Paper"
+type: "Dataset"
 title: "DeepFashion2: a dataset with 391k images of fashion pieces from CUHK."
 tags: ""
 comments: true
