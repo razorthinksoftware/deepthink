@@ -8,7 +8,7 @@ script:
   - node get_data.js
   - rm -rf node_modules/*
   - rm -rf vendor/*
-  - git add _posts/*
+  - git add --force  _posts/*
   
 # language: ruby
 # cache: bundler
