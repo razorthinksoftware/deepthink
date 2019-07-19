@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-23"
 author: "Prathyush SP"
 link: "https://openreview.net/forum?id=HJfSEnRqKQ"
-type: "Paper"
+category: "Paper"
 title: "Active Learning with Partial Feedback"
 tags: ""
 comments: true

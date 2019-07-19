@@ -3,7 +3,7 @@ layout: post
 date: "2019-06-13"
 author: "Prathyush SP"
 link: "https://transformer.huggingface.co/"
-type: "Tool"
+category: "Tool"
 title: "Write With Transformer"
 tags: ""
 comments: true

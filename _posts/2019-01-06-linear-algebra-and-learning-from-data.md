@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-06"
 author: "Prathyush SP"
 link: "http://math.mit.edu/~gs/learningfromdata/"
-type: "Resource"
+category: "Resource"
 title: "Linear Algebra and Learning from Data"
 tags: ""
 comments: true

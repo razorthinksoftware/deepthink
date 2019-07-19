@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-03"
 author: "Prathyush SP"
 link: "https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79"
-type: "Resource"
+category: "Resource"
 title: "Weight Initialization in Neural Networks: A Journey From the Basics to Kaiming"
 tags: ""
 comments: true

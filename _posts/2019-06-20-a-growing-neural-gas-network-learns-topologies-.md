@@ -3,7 +3,7 @@ layout: post
 date: "2019-06-20"
 author: "Prathyush SP"
 link: "https://t.co/qx3D34hkzx"
-type: "Paper"
+category: "Paper"
 title: "A Growing Neural Gas Network Learns Topologies "
 tags: ""
 comments: true

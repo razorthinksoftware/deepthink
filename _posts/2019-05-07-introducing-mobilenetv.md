@@ -3,7 +3,7 @@ layout: post
 date: "2019-05-07"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1905.02244"
-type: "Paper"
+category: "Paper"
 title: "Introducing MobileNetV3"
 tags: ""
 comments: true

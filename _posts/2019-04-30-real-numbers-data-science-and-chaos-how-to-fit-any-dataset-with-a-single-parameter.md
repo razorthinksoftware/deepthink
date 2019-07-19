@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-30"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1904.12320"
-type: "Paper"
+category: "Paper"
 title: "Real numbers, data science and chaos: How to fit any dataset with a single parameter"
 tags: ""
 comments: true

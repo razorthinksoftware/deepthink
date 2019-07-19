@@ -3,7 +3,7 @@ layout: post
 date: "2019-05-16"
 author: "Prathyush SP"
 link: "https://t.co/PHklruxCUC"
-type: "Paper"
+category: "Paper"
 title: "Distilling the Knowledge in a Neural Network"
 tags: ""
 comments: true

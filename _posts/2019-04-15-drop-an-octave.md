@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-15"
 author: "Prathyush SP"
 link: "https://export.arxiv.org/abs/1904.05049"
-type: "Paper"
+category: "Paper"
 title: "Drop an Octave"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-01"
 author: "Prathyush SP"
 link: "https://paperswithcode.com/sota"
-type: "Resource"
+category: "Resource"
 title: "Super cool resource: Papers With Code "
 tags: ""
 comments: true

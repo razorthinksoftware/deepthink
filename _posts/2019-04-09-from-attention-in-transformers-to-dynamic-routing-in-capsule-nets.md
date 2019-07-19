@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-09"
 author: "Prathyush SP"
 link: "https://staff.fnwi.uva.nl/s.abnar/?p=108"
-type: "Resource"
+category: "Resource"
 title: "From Attention in Transformers to Dynamic Routing in Capsule Nets"
 tags: ""
 comments: true

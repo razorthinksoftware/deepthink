@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-07"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1901.10430"
-type: "Paper"
+category: "Paper"
 title: "Convolution is all you need."
 tags: ""
 comments: true

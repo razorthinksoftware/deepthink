@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-28"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1903.11257"
-type: "Paper"
+category: "Paper"
 title: "How Can We Be So Dense?"
 tags: ""
 comments: true

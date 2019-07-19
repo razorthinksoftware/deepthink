@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-16"
 author: "Prathyush SP"
 link: "https://t.co/nodmNBjhja"
-type: "Tool"
+category: "Tool"
 title: "Google Jax"
 tags: ""
 comments: true

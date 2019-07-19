@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-28"
 author: "Prathyush SP"
 link: "https://seeing-theory.brown.edu"
-type: "Resource"
+category: "Resource"
 title: "Seeing Theory"
 tags: ""
 comments: true

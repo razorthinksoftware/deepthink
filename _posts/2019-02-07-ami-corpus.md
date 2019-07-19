@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-07"
 author: "Prathyush SP"
 link: "http://groups.inf.ed.ac.uk/ami/corpus/"
-type: "Dataset"
+category: "Dataset"
 title: "AMI Corpus"
 tags: ""
 comments: true

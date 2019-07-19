@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-01"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1901.11117"
-type: "Paper"
+category: "Paper"
 title: "The Evolved Transformer"
 tags: ""
 comments: true

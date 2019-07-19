@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-18"
 author: "Prathyush SP"
 link: "https://twitter.com/evolvingstuff/status/1075249768954089472"
-type: "Paper"
+category: "Paper"
 title: "Spiking NN"
 tags: ""
 comments: true

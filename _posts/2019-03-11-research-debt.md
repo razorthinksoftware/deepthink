@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-11"
 author: "Prathyush SP"
 link: "https://distill.pub/2017/research-debt/"
-type: "Resource"
+category: "Resource"
 title: "Research Debt"
 tags: ""
 comments: true

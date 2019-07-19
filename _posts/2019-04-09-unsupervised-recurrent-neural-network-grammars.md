@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-09"
 author: "Prathyush SP"
 link: "https://arxiv.org/pdf/1904.03746.pdf"
-type: "Paper"
+category: "Paper"
 title: "Unsupervised Recurrent Neural Network Grammars"
 tags: ""
 comments: true

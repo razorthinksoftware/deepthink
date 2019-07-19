@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-20"
 author: "Prathyush SP"
 link: "https://code.fb.com/ai-research/nevergrad/"
-type: "Tool"
+category: "Tool"
 title: "Nevergrad! An open source tool for derivative-free optimization"
 tags: ""
 comments: true

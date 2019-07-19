@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-04"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1902.00249"
-type: "Paper"
+category: "Paper"
 title: "ProteinNet"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-06-03"
 author: "Prathyush SP"
 link: "https://pair-code.github.io/interpretability/bert-tree/"
-type: "Paper"
+category: "Paper"
 title: "How does a neural net represent language?"
 tags: ""
 comments: true

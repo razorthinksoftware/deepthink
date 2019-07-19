@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-25"
 author: "Prathyush SP"
 link: "https://distill.pub/2019/memorization-in-rnns/"
-type: "Resource"
+category: "Resource"
 title: "Visualizing memorization in RNNs"
 tags: ""
 comments: true

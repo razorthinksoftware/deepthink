@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-01"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1904.00962"
-type: "Paper"
+category: "Paper"
 title: "LAMB Optimizer"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-03"
 author: "Prathyush SP"
 link: "https://github.com/zziz/pwc"
-type: "Resource"
+category: "Resource"
 title: "Papers with Code"
 tags: ""
 comments: true

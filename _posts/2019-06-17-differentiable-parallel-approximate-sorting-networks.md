@@ -3,7 +3,7 @@ layout: post
 date: "2019-06-17"
 author: "Prathyush SP"
 link: "https://github.com/johnhw/differentiable_sorting"
-type: "Tool"
+category: "Tool"
 title: "Differentiable parallel approximate sorting networks"
 tags: ""
 comments: true

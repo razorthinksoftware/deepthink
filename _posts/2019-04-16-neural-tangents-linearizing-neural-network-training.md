@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-16"
 author: "Prathyush SP"
 link: "https://github.com/google/neural-tangents"
-type: "Tool"
+category: "Tool"
 title: "Neural Tangents - Linearizing Neural Network training."
 tags: ""
 comments: true

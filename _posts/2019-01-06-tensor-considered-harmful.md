@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-06"
 author: "Prathyush SP"
 link: "http://nlp.seas.harvard.edu/NamedTensor"
-type: "Article"
+category: "Article"
 title: "Tensor Considered Harmful"
 tags: ""
 comments: true

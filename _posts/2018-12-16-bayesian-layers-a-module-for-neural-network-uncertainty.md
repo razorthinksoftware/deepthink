@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-16"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1812.03973"
-type: "Paper"
+category: "Paper"
 title: "Bayesian Layers: A Module for Neural Network Uncertainty"
 tags: ""
 comments: true

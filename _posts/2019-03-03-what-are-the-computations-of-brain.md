@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-03"
 author: "Prathyush SP"
 link: "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.178.2123&rep=rep1&type=pdf"
-type: "Paper"
+category: "Paper"
 title: "What are the computations of Brain"
 tags: ""
 comments: true

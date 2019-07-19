@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-11"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1904.04084v1"
-type: "Paper"
+category: "Paper"
 title: "ContextDesc: Local Descriptor Augmentation with Cross-Modality Context"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-01"
 author: "Prathyush SP"
 link: "https://homes.cs.washington.edu/~msap/atomic/"
-type: "Dataset"
+category: "Dataset"
 title: "ATOMIC - An Atlas of Machine Commonsense for If-Then Reasoning
 "
 tags: ""

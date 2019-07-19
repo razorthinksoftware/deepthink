@@ -3,7 +3,7 @@ layout: post
 date: "2019-06-07"
 author: "Prathyush SP"
 link: "https://arxiv.org/pdf/1906.02715.pdf"
-type: "Paper"
+category: "Paper"
 title: "Visualizing and Measuring the Geometry of BERT"
 tags: ""
 comments: true

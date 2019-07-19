@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-19"
 author: "Prathyush SP"
 link: "https://github.com/HarisIqbal88/PlotNeuralNet"
-type: "Tool"
+category: "Tool"
 title: "PlotNeuralNet"
 tags: ""
 comments: true

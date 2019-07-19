@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-04"
 author: "Prathyush SP"
 link: "https://distill.pub/2019/activation-atlas/"
-type: "Tool"
+category: "Tool"
 title: "Exploring Neural Networks with Activation Atlases"
 tags: ""
 comments: true

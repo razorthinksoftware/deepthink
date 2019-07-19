@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-21"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1904.08653"
-type: "Paper"
+category: "Paper"
 title: "Fooling automated surveillance cameras"
 tags: ""
 comments: true

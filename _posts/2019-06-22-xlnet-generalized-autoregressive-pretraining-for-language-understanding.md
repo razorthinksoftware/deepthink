@@ -3,7 +3,7 @@ layout: post
 date: "2019-06-22"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1906.08237"
-type: "Paper"
+category: "Paper"
 title: "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
 tags: ""
 comments: true

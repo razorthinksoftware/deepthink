@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-30"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1902.07638"
-type: "Paper"
+category: "Paper"
 title: "Random Search - NAS! "
 tags: ""
 comments: true

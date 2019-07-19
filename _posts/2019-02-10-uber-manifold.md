@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-10"
 author: "Prathyush SP"
 link: "https://eng.uber.com/manifold/"
-type: "Tool"
+category: "Tool"
 title: "Uber Manifold"
 tags: ""
 comments: true

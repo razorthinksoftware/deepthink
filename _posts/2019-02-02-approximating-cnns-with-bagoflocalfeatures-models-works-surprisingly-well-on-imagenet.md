@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-02"
 author: "Prathyush SP"
 link: "https://openreview.net/pdf?id=SkfMWhAqYQ"
-type: "Paper"
+category: "Paper"
 title: "Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet"
 tags: ""
 comments: true

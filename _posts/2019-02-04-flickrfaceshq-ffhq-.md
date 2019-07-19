@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-04"
 author: "Prathyush SP"
 link: "https://github.com/NVlabs/ffhq-dataset"
-type: "Dataset"
+category: "Dataset"
 title: "Flickr-Faces-HQ (FFHQ) "
 tags: ""
 comments: true

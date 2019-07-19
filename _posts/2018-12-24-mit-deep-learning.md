@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-24"
 author: "Prathyush SP"
 link: "https://deeplearning.mit.edu/"
-type: "Resource"
+category: "Resource"
 title: "MIT Deep Learning"
 tags: ""
 comments: true

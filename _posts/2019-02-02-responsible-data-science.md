@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-02"
 author: "Prathyush SP"
 link: "https://dataresponsibly.github.io/courses/spring19/"
-type: "Resource"
+category: "Resource"
 title: "Responsible Data Science"
 tags: ""
 comments: true

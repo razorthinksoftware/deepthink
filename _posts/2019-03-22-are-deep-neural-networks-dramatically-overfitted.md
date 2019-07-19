@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-22"
 author: "Prathyush SP"
 link: "https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html"
-type: "Resource"
+category: "Resource"
 title: "Are Deep Neural Networks Dramatically Overfitted?"
 tags: ""
 comments: true

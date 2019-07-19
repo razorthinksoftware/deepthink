@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-07"
 author: "Prathyush SP"
 link: "https://machinelearningmastery.com/polyak-neural-network-model-weight-ensemble/"
-type: "Article"
+category: "Article"
 title: "Exponentially weighted average weights"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-05-09"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1905.02249"
-type: "Paper"
+category: "Paper"
 title: "MixMatch - A Holistic Approach to Semi-Supervised Learning"
 tags: ""
 comments: true

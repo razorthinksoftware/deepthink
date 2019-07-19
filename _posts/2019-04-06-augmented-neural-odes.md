@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-06"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1904.01681"
-type: "Paper"
+category: "Paper"
 title: "Augmented Neural ODEs"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-05-12"
 author: "Prathyush SP"
 link: "https://t.co/EBhZZnw9MQ"
-type: "Paper"
+category: "Paper"
 title: "Think Globally, Act Locally"
 tags: ""
 comments: true

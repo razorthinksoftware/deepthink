@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-18"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1901.09491"
-type: "Paper"
+category: "Paper"
 title: "Stiffness: A New Perspective on Generalization in Neural Networks"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-24"
 author: "Prathyush SP"
 link: "https://towardsdatascience.com/introducing-wav2latter-9e94ae13246"
-type: "Paper"
+category: "Paper"
 title: "Introducing Wav2letter++
 
 "

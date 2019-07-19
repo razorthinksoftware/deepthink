@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-02"
 author: "Prathyush SP"
 link: "https://socviz.co/"
-type: "Resource"
+category: "Resource"
 title: "Data Visualization: A practical introduction"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-22"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1903.08254"
-type: "Paper"
+category: "Paper"
 title: "PEARL: Meta-RL"
 tags: ""
 comments: true

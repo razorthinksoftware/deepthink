@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-08"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1611.01576"
-type: "Paper"
+category: "Paper"
 title: "Quasi-Recurrent Neural Networks"
 tags: ""
 comments: true

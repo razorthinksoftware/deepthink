@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-30"
 author: "Prathyush SP"
 link: "https://colab.research.google.com/github/google/jax/blob/master/notebooks/autodiff_cookbook.ipynb"
-type: "Resource"
+category: "Resource"
 title: "The JAX Autodiff Cookbook"
 tags: ""
 comments: true

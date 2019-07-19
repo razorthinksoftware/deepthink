@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-15"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1902.05522"
-type: "Paper"
+category: "Paper"
 title: "Superposition of many models into one"
 tags: ""
 comments: true

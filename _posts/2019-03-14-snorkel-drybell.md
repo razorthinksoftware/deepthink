@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-14"
 author: "Prathyush SP"
 link: "https://hazyresearch.github.io/snorkel/"
-type: "Tool"
+category: "Tool"
 title: "Snorkel Drybell"
 tags: ""
 comments: true

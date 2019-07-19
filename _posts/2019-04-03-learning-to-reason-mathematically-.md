@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-03"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1904.01557"
-type: "Dataset"
+category: "Dataset"
 title: "Learning to reason (mathematically) "
 tags: ""
 comments: true

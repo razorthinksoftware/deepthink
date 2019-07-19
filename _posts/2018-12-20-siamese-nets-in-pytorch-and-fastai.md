@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-20"
 author: "Prathyush SP"
 link: "https://twitter.com/radekosmulski/status/1076024164694310913"
-type: "Tool"
+category: "Tool"
 title: "Siamese Nets in Pytorch and Fast.ai"
 tags: ""
 comments: true

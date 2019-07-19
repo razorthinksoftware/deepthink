@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-09"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1903.12436"
-type: "Paper"
+category: "Paper"
 title: "From Variational to Deterministic Autoencoders"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-24"
 author: "Prathyush SP"
 link: "https://github.com/intelAI/Nauta"
-type: "Tool"
+category: "Tool"
 title: "Nauta - A multi-user, distributed computing environment for running DL model training experiments"
 tags: ""
 comments: true

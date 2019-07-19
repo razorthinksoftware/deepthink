@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-27"
 author: "Prathyush SP"
 link: "https://lindeloev.github.io/tests-as-linear/"
-type: "Resource"
+category: "Resource"
 title: "Common statistical tests are linear models (or: how to teach stats)"
 tags: ""
 comments: true

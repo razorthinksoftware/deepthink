@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-20"
 author: "Prathyush SP"
 link: "https://github.com/tensorflow/privacy"
-type: "Tool"
+category: "Tool"
 title: "Tensorflow Privacy"
 tags: "tensorflow"
 comments: true

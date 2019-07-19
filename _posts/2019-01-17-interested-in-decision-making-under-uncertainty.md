@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-17"
 author: "Prathyush SP"
 link: "https://amzn.github.io/emukit/"
-type: "Article"
+category: "Article"
 title: "Interested in decision making under uncertainty?"
 tags: ""
 comments: true

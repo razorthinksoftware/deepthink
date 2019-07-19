@@ -3,7 +3,7 @@ layout: post
 date: "2019-07-09"
 author: "Prathyush SP"
 link: "https://medium.com/syncedreview/the-staggering-cost-of-training-sota-ai-models-e329e80fa82"
-type: "Resource"
+category: "Resource"
 title: "The Staggering Cost of Training SOTA AI Models"
 tags: ""
 comments: true

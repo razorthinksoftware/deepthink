@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-13"
 author: "Prathyush SP"
 link: "https://machinelearningmastery.com/develop-word-embeddings-python-gensim/"
-type: "Resource"
+category: "Resource"
 title: "How to Develop Word Embeddings in Python with Gensim"
 tags: ""
 comments: true

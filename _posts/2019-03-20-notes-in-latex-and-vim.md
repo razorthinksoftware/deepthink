@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-20"
 author: "Prathyush SP"
 link: "https://castel.dev/post/lecture-notes-1/"
-type: "Resource"
+category: "Resource"
 title: "Notes in LaTeX and Vim"
 tags: ""
 comments: true

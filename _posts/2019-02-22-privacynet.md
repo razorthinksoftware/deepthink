@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-22"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1712.00321"
-type: "Paper"
+category: "Paper"
 title: "PrivacyNet"
 tags: ""
 comments: true

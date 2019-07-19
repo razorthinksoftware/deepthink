@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-10"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1811.11212"
-type: "Paper"
+category: "Paper"
 title: "Self-Supervised GANs via Auxiliary Rotation Loss"
 tags: ""
 comments: true

@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-05"
 author: "Prathyush SP"
 link: "https://arxiv.org/pdf/1902.01046.pdf"
-type: "Paper"
+category: "Paper"
 title: "Towards Federated Learning at Scale: System Design"
 tags: ""
 comments: true

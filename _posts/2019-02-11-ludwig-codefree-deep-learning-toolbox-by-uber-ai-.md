@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-11"
 author: "Prathyush SP"
 link: "https://t.co/wSuJl8cULz"
-type: "Tool"
+category: "Tool"
 title: "Ludwig: Code-Free Deep Learning Toolbox by Uber AI "
 tags: ""
 comments: true

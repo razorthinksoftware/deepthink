@@ -3,7 +3,7 @@ layout: post
 date: "2019-05-03"
 author: "Prathyush SP"
 link: "https://www.fast.ai/2019/05/03/decrappify/"
-type: "Resource"
+category: "Resource"
 title: "Decrappification, DeOldification, and Super Resolution"
 tags: ""
 comments: true

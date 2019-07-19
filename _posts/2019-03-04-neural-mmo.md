@@ -5,7 +5,7 @@ author: "Prathyush SP"
 link: "https://github.com/openai/neural-mmo
 
 "
-type: "Tool"
+category: "Tool"
 title: "Neural MMO"
 tags: ""
 comments: true

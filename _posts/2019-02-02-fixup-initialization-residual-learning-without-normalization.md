@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-02"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1901.09321"
-type: "Paper"
+category: "Paper"
 title: "Fixup Initialization: Residual Learning Without Normalization"
 tags: ""
 comments: true

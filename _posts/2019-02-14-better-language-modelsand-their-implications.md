@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-14"
 author: "Prathyush SP"
 link: "https://openai.com/blog/better-language-models/"
-type: "Resource"
+category: "Resource"
 title: "Better Language Models
 and Their Implications"
 tags: ""

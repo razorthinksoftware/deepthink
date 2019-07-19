@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-20"
 author: "Prathyush SP"
 link: "https://imageshack.com/a/img922/4649/WzolxL.gif"
-type: "Paper"
+category: "Paper"
 title: "DeepPaper Gesalt"
 tags: ""
 comments: true

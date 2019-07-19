@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-21"
 author: "Prathyush SP"
 link: "https://arxiv.org/pdf/1902.06838.pdf"
-type: "Tool"
+category: "Tool"
 title: "SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color"
 tags: ""
 comments: true

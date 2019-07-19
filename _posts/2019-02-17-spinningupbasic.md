@@ -3,7 +3,7 @@ layout: post
 date: "2019-02-17"
 author: "Prathyush SP"
 link: "https://github.com/Kaixhin/spinning-up-basic"
-type: "Tool"
+category: "Tool"
 title: "Spinning-Up-Basic"
 tags: ""
 comments: true

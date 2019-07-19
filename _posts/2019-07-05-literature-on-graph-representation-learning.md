@@ -3,7 +3,7 @@ layout: post
 date: "2019-07-05"
 author: "Prathyush SP"
 link: "https://github.com/DeepGraphLearning/LiteratureDL4Graph"
-type: "Resource"
+category: "Resource"
 title: "Literature on graph representation learning"
 tags: ""
 comments: true

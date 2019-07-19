@@ -3,7 +3,7 @@ layout: post
 date: "2019-06-01"
 author: "Prathyush SP"
 link: "https://speech2face.github.io/"
-type: "Paper"
+category: "Paper"
 title: "Speech2Face: Learning the Face Behind a Voice"
 tags: ""
 comments: true

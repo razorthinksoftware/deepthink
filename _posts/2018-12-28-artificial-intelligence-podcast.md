@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-28"
 author: "Prathyush SP"
 link: "https://lexfridman.com/ai/"
-type: "Resource"
+category: "Resource"
 title: "Artificial Intelligence Podcast
 
 "

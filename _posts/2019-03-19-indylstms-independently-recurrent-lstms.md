@@ -3,7 +3,7 @@ layout: post
 date: "2019-03-19"
 author: "Prathyush SP"
 link: "https://t.co/rC8GJVeRjY"
-type: "Paper"
+category: "Paper"
 title: "IndyLSTMs: Independently Recurrent LSTMs"
 tags: ""
 comments: true

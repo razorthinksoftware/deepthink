@@ -3,7 +3,7 @@ layout: post
 date: "2019-04-10"
 author: "Prathyush SP"
 link: "https://arxiv.org/abs/1810.12281"
-type: "Paper"
+category: "Paper"
 title: "Three Mechanisms of Weight Decay Regularization"
 tags: ""
 comments: true
