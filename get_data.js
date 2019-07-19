@@ -49,7 +49,7 @@ async.series([
                         "link: " +
                         '"' + row.url + '"' +
                         "\n" +
-                        "type: " +
+                        "category: " +
                         '"' + row.type + '"' +
                         "\n" +
                         "title: " +
