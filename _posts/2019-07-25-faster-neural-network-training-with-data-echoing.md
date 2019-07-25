@@ -2,7 +2,7 @@
 layout: post
 date: "2019-07-25"
 author: "Prathyush SP"
-link: ""
+link: "https://arxiv.org/abs/1907.05550"
 category: "Paper"
 title: "Faster Neural Network Training with Data Echoing"
 tags: ""
