@@ -37,6 +37,9 @@ To serve jekyll pages:
 npm install
 bundle install
 
+# Fetch Data
+npm run getdata
+
 # To run locally
 bundle exec jekyll serve
  ```
