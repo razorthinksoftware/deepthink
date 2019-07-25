@@ -14,7 +14,7 @@ Objectives,
 Learn more and contribute on [GitHub](https://github.com/razorthinksoftware/deepthink).
 
 
-Configuration:
+#### Configuration:
 
 ![Configuration](https://github.com/razorthinksoftware/deepthink/blob/master/trigger.png)
 
@@ -29,7 +29,19 @@ Developer:
 * On push, an event is triggerd in github using webhooks.
 * The event is published to Travis CI.
 
-Some fun facts about the setup of this project include:
+To serve jekyll pages:
+
+```bash
+
+# Init Op Only
+npm install
+bundle install
+
+# To run locally
+bundle exec jekyll serve
+ ```
+
+**Some fun facts about the setup of this project include:**
 
 * Built using [Jekyll](http://jekyllrb.com).
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com).
@@ -42,17 +54,3 @@ Some fun facts about the setup of this project include:
 * Site Traffic analysis by [Google Analytics](https://analytics.google.com/analytics/web/).
 
 
-
-
-
-To serve jekyll pages:
-
-```bash
-
-# Init Op Only
-npm install
-bundle install
-
-# To run locally
-bundle exec jekyll serve
- ```
