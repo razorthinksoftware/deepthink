@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-25"
 author: "Prathyush SP"
 link: "https://medium.com/@xamat/the-year-in-ai-ml-advances-2018-roundup-db52f7f96358"
-category: "Article"
+category: "Resource"
 title: "The year in AI/ML advances: 2018 roundup
 "
 tags: ""

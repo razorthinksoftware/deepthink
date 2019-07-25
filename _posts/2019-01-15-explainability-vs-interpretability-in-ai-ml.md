@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-15"
 author: "Prathyush SP"
 link: "https://www.analyticsindiamag.com/explainability-vs-interpretability-in-artificial-intelligence-and-machine-learning/"
-category: "Article"
+category: "Resource"
 title: "Explainability Vs Interpretability In AI & ML"
 tags: ""
 comments: true
