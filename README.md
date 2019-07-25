@@ -18,13 +18,13 @@ Learn more and contribute on [GitHub](https://github.com/razorthinksoftware/deep
 
 ![Configuration](https://github.com/razorthinksoftware/deepthink/blob/master/trigger.png)
 
-User:
+**User:**
 * User adds / updates content in  [Google Sheets](https://docs.google.com/spreadsheets/d/1MVLQO341_zALN4gmkMLMwiC5_ZamJ7DhGiHACmzCpJA)!
 * The sheets triggers onChange event and executes [publishToTravis](https://github.com/razorthinksoftware/deepthink/blob/master/code.gs) function.
 * Travis run [nodejs script](https://github.com/razorthinksoftware/deepthink/blob/master/get_data.js) configured to fetch the posts from google sheets and create a markdown files.
 * The jekyll site auto updates on the changed / added md files from _posts folder.
 
-Developer:
+**Developer:**
 * Developer modifies the [package](https://github.com/razorthinksoftware/deepthink)
 * On push, an event is triggerd in github using webhooks.
 * The event is published to Travis CI.
