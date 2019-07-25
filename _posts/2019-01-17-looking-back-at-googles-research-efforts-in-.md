@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-17"
 author: "Prathyush SP"
 link: "https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html?m=1"
-category: "Article"
+category: "Resource"
 title: "Looking Back at Google’s Research Efforts in 2018"
 tags: ""
 comments: true

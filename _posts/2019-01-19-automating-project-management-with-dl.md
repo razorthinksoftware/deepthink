@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-19"
 author: "Prathyush SP"
 link: "https://towardsdatascience.com/automating-project-management-with-deep-learning-bd5b851235eb"
-category: "Article"
+category: "Resource"
 title: "Automating project management with DL"
 tags: ""
 comments: true

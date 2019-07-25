@@ -3,7 +3,7 @@ layout: post
 date: "2019-01-07"
 author: "Prathyush SP"
 link: "https://www.gamespot.com/forums/pc-mac-linux-society-1000004/esrgan-is-pretty-damn-amazing-trying-max-payne-wit-33449670/"
-category: "Article"
+category: "Resource"
 title: "Super-resolution GANs for improving the texture resolution of old games"
 tags: ""
 comments: true

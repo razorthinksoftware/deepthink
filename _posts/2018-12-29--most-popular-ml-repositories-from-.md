@@ -3,7 +3,7 @@ layout: post
 date: "2018-12-29"
 author: "Prathyush SP"
 link: "https://www.analyticsindiamag.com/10-most-popular-machine-learning-github-repositories-from-2018/"
-category: "Article"
+category: "Resource"
 title: "10 Most Popular ML Repositories From 2018"
 tags: ""
 comments: true
