@@ -2,7 +2,7 @@
 layout: post
 date: "2019-07-27"
 author: "Prathyush SP"
-link: "https://t.co/ykhbMsuupW?amp=1"
+link: "http://nodes.io/"
 category: "Tool"
 title: "Say hello to nodes.io!"
 tags: ""
