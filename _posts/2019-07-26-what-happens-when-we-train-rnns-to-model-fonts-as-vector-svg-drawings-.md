@@ -2,7 +2,7 @@
 layout: post
 date: "2019-07-26"
 author: "Prathyush SP"
-link: "arxiv.org/abs/1904.02632"
+link: "https://arxiv.org/abs/1904.02632"
 category: "Paper"
 title: "What happens when we train RNNs to model fonts as vector (SVG) drawings? "
 tags: ""

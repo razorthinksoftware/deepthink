@@ -2,7 +2,7 @@
 layout: post
 date: "2019-07-27"
 author: "Prathyush SP"
-link: "arxiv.org/abs/1907.08040"
+link: "https://arxiv.org/abs/1907.08040"
 category: "Paper"
 title: "Convolutional Reservoir Computing for World Models."
 tags: ""
