@@ -2,7 +2,7 @@
 layout: post
 date: "2019-07-30"
 author: "Prathyush SP"
-link: ""
+link: "https://eng.uber.com/plato-research-dialogue-system/"
 category: "Tool"
 title: "Plato : A Flexible Conversational AI Platform"
 tags: ""
