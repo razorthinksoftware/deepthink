@@ -1,6 +1,6 @@
 function publishToTravis() {
-  var authorization = 'token JCCK_EXN4Y1_Zw_3DOU6Yw';
-  var slugId = 'razorthinksoftware%2Fdeepthink';
+  var authorization = 'token <travis_user_token>';
+  var slugId = '<project_slug_id>';
   var options = {
     "method": "post",
     "headers": {'Content-Type': 'application/json', 'Travis-API-Version': '3', 'Accept':'application/json', 'Authorization': authorization },
